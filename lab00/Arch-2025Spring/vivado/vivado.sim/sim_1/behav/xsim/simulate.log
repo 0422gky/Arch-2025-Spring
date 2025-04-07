@@ -1,0 +1,13 @@
+Vivado Simulator 2019.2
+Time resolution is 1 ps
+PASS:  10 1 5 = 15
+PASS:  20 1 30 = 50
+PASS:  50 2 20 = 30
+PASS:  10 2 15 = 4294967291
+PASS:  4278255360 3 252645135 = 251662080
+PASS:  4278255360 4 252645135 = 4279238415
+PASS:  10 5 20 = 1
+PASS:  30 5 10 = 0
+PASS:  4294967291 5 3 = 1
+=== ALL TESTS PASSED ===
+$stop called at time : 90 ns : File "D:/Codefield/System_Verilog/lab01/Arch-2025Spring/vsrc/top.sv" Line 69
